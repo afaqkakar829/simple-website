@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Portal",
+  "description": "A minimalist, high-performance AI portal featuring real-time chat, image generation, and creative insights powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
